@@ -1,0 +1,1 @@
+Program that checks whether an array contains duplicate values

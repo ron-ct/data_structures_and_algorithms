@@ -1,0 +1,1 @@
+Design and implementation of a system for adding students, editing their details, calculating grades by use of arrays and structs in C.

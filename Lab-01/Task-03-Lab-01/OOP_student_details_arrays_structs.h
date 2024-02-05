@@ -1,0 +1,14 @@
+//
+// Created by USER on 1/29/2024.
+//
+
+#ifndef TASK_03_LAB_01_OOP_STUDENT_DETAILS_ARRAYS_STRUCTS_H
+#define TASK_03_LAB_01_OOP_STUDENT_DETAILS_ARRAYS_STRUCTS_H
+
+
+class OOP_student_details_arrays_structs {
+
+};
+
+
+#endif //TASK_03_LAB_01_OOP_STUDENT_DETAILS_ARRAYS_STRUCTS_H
