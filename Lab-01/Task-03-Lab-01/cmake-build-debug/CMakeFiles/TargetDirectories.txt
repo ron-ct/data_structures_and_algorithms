@@ -1,3 +1,0 @@
-C:/Users/USER/Documents/DataStructuresAndAlgorithms/data_structures_and_algorithms/Lab-01/Task-03-Lab-01/cmake-build-debug/CMakeFiles/Task_03_Lab_01.dir
-C:/Users/USER/Documents/DataStructuresAndAlgorithms/data_structures_and_algorithms/Lab-01/Task-03-Lab-01/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/USER/Documents/DataStructuresAndAlgorithms/data_structures_and_algorithms/Lab-01/Task-03-Lab-01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
