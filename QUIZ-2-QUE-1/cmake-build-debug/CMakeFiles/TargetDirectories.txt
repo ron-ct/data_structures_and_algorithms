@@ -1,0 +1,3 @@
+C:/Users/USER/Documents/DataStructuresAndAlgorithms/data_structures_and_algorithms/QUIZ-2/QUIZ-2-QUE-1/cmake-build-debug/CMakeFiles/QUIZ_2_QUE_1.dir
+C:/Users/USER/Documents/DataStructuresAndAlgorithms/data_structures_and_algorithms/QUIZ-2/QUIZ-2-QUE-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Documents/DataStructuresAndAlgorithms/data_structures_and_algorithms/QUIZ-2/QUIZ-2-QUE-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
